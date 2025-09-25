@@ -1,5 +1,3 @@
-
-
 <h3>NAME : ABDULLAH R</h3>
 <h3>REGISTER NO: 212223230004</h3>
 <h3>EX. NO : 2</h3>
